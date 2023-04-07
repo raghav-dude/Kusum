@@ -51,3 +51,48 @@ git status
 clear
 git status
 git --a
+git status
+git commit -m "Initial commit"
+git status
+git log
+git status
+git add --a
+git status
+dir commit -m"Initial commit"
+git commit -m "Initial commit"
+git status
+git log
+git status
+git add  New Microsoft Word Document.docx
+git add New Microsoft Word Document.docx
+git status
+git add  New Microsoft Word Document.docx
+git status
+git add Hello.docx
+git statuis
+git status
+git commit -m"Hello.docx"
+git status
+clear
+git status
+git add Hello.docx
+git status
+git commit -m "Hello.docx changed and commited"
+git status
+clear
+git.log
+git log
+git status
+Git add Hello.docx
+Git add Hello.docx
+git add Hello.docx
+got statis
+git status
+git commit -m
+git commit -m ""
+git status
+git commit -m "No message"
+git status
+git log
+clear
+exit
