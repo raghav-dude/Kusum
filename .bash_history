@@ -96,3 +96,84 @@ git status
 git log
 clear
 exit
+git status
+git status
+git status
+git add .
+clear
+git status
+git add .a
+git add -a
+git add -A
+git status
+git commit -m".bash_history"
+git status
+git rm nepal.docx
+git status
+git status
+git add nepal.docx
+git add -A]
+git status
+git restore -- staged nepal.docx
+git status
+git restore nepal.docx
+git restore
+git status
+git restore
+git restore -- staged 
+git restore -- staged "nepal.docx"
+clear
+git status
+git commit -m".bash_history"
+git status
+git status
+git status
+git add .A
+git add "nepal.docx"
+git status
+git status
+git add.
+git add .
+git status
+git commit -m "Try:"
+git status
+git status
+git status
+clear
+git status
+clear
+git status
+git status
+git add .
+git status
+git status
+git status
+git status
+git diff
+ clear
+git status
+git diff
+git diff
+git status
+git diff
+ git add .
+git status
+git commit -m"Againa"
+clear
+git status
+Git
+clear
+git status
+git add .
+git status
+clear
+git status
+clear
+git status
+clear
+git status
+git diff
+clear
+git status
+git clear
+exit
