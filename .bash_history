@@ -177,3 +177,120 @@ clear
 git status
 git clear
 exit
+clear
+git status
+git restore .bash_history
+git status
+clear
+git status
+git status
+git status
+gid add -
+git add -
+git add --
+git add .
+git statis
+git status
+git commit - m " ahda"
+git commit -m " ahda"
+git status
+git status
+clear
+git status
+git add .
+git stayus
+git status
+git restore --staged .gitignore.txt
+git status
+ git checkout -- .gitignore.txt
+git status
+ clear
+git remote add origin https://github.com/raghav-dude/Git-tutorial.git
+git remote
+git push -u origin main
+$ ssh-keygen -t ed25519 -C "your_email@example.com"
+ssh-keygen -t ed25519 -C "your_email@example.com"
+clear
+ssh-keygen -t ed25519 -C "raghavupadhyay800@gmail.com"
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_ed25519
+tail ~/.ssh/id_ed25519.pub
+git push -u origin main
+git branch -M main
+git push -u origin main
+git push -u origin main
+git push -u origin main
+clear
+git remote add origin https://github.com/raghav-dude/Git-tutorial.git
+git remote
+git branch -M main
+git push -u origin main
+git push -u origin main
+clear
+git push
+git push --set-upstream origin main
+clear
+git remote -v
+git push -u origin main
+git remote add origin https://github.com/raghav-dude/Git-tutorial.git
+git push -u origin main
+git push -u origin mainclear
+clear
+git push -u origin main
+clear
+ssh-keygen -t ed25519 -C "meraghav800@gmail.com"
+eval "$(ssh-agent -s)"
+ ssh-add ~/.ssh/id_ed25519
+tail ~/.ssh/id_ed25519.pub
+clear
+git push -u origin main
+git push -u origin main
+git push
+git push git@github.com:raghav-dude/Git-tutorial.git
+touch hello.txt
+git status
+git commit -a
+git add
+git add .
+git commit- m "Hello"
+git commit - m "Hello"
+git commit -m "Hello"
+git status
+push main
+git push 
+git push main
+git push -u origin main
+git push https://github.com/raghav-dude/Git-tutorial.git/
+clear
+git push https://github.com/raghav-dude/Git-tutorial.git
+git push -u
+git push -u main
+git push -u orihin master
+git push -u origin master
+git status'
+
+clae
+qq
+q
+q
+q
+qq
+
+
+
+clear
+
+
+aqqqq
+q
+q
+q
+q
+q
+q
+q
+
+q
+q
+qq
+
