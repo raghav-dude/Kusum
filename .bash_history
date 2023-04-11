@@ -303,3 +303,53 @@ git commit -m "Hello
 
 
 
+git commit -m "Hello"
+git status
+git add .
+git commit -m "Hello"
+git status
+git push -u main
+git push -u master
+git push -u origin main
+git push -u origin master
+git remote add origin https://github.com/raghav-dude/Git-tutorial.git
+git origin push master
+git push origin master
+git status
+git push origin main
+git push origin hello.txt
+git pull origin master
+git pull origin main
+git status
+git push
+git remote
+git push -u origin  master
+git push -u origin main
+git push -u origin
+ git push --set-upstream origin main
+ git push --set-upstream origin main
+git push origin
+clear
+git checkout -b branch
+pwd
+git checkout
+git checkout master
+git checkout main
+git checkout develop
+git checkout branch
+cached
+git
+git cached
+git --help
+git help cached
+git show
+git branch
+git main
+git checkout branch
+git checkout main
+git revert <commit>
+git revert <commit>
+git revert hello
+git revert Hello
+clear
+git status
