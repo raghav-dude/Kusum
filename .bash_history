@@ -1,66 +1,4 @@
 git status
-git init
- git status
-git add --a
-git status
-git commit
-git commit -m "Initial Commit"
-git status
-git config -- global user.email "meraghav800@gmail.com"
-git config --global user.email "meraghav800@gmail.com
-git user.name
-clear
-
-
-
-
-
-
-
-
-
-git config --global user.name "Raghav Upadhyay"
-return
-git return
-git config --global user.name "Raghav Upad
-git user.name
-git.username
-gir
-git
-clear
-git config user.name
-git config user.email
-git config user.email
-git config --global user.email "meraghav800@gmail.com"
-git config user.email
-clear
-ls
-ls
-ls
-cd
-cd
-cd  
-cd ..
-cd ..
-lear
-clear
-git status
-git .init
-git log
-git status
-clear
-git status
-git --a
-git status
-git commit -m "Initial commit"
-git status
-git log
-git status
-git add --a
-git status
-dir commit -m"Initial commit"
-git commit -m "Initial commit"
-git status
 git log
 git status
 git add  New Microsoft Word Document.docx
@@ -353,3 +291,210 @@ git revert hello
 git revert Hello
 clear
 git status
+xlear
+clear
+git status
+git status
+git add .
+git status
+git status
+git commit -m"tessaii"
+git statuis
+git status
+git status
+git add .
+git commit -m"HEllo"
+git status
+git brnch
+git branch
+clear
+git clone https://github.com/raghav-dude/Git-tutorial.git
+cleart
+clear
+cd /
+cd bin
+./ls
+cd ~
+clear
+pd
+pwd
+ls
+python ./myprogram.py
+cd
+cd 
+cd .
+pwd
+ls
+clear
+vim
+nano
+vim
+git status
+git rmv Git-tutorial/
+git rm Git-tutorial/
+git add.
+git add .
+git rm --cached Git-tutorial/
+git -f rm --cached Git-tutorial/
+git status
+git rm Git-tutorial/
+clear
+sudo apt update
+apt list --upgradable
+clear
+wyum
+yum
+sudo yum update
+sudo apt install
+sudo apt update
+clear
+cd ~
+sudo apt upgrade nano
+nano myprogram.py
+cd /homr/project
+cd \home\project
+cd /home/project
+nano myprogram.py
+nano myprogram.py
+ls
+python3 myprogram.py
+/usr
+ls /usr
+ls /media
+ls
+cd /media
+cd /home/project
+sudo nano
+clear
+cd ..
+nano myprogram.py
+nano myprogram.py
+nano myprogram.py
+myprogarm.py
+python3 myprogram.py
+vim
+vi
+vi done.py
+python3 done.py
+clear
+quit
+exit
+printenv SHELL
+printenv SHELL
+whoami
+id
+uname
+ps
+ps
+ps
+ps
+ps
+top
+date
+hostname
+ping
+ifconfig
+uname
+uname -s -r
+uname -v
+df -h~
+df -h ~
+df -h
+ps -u root
+top
+echo
+echo hello
+echo $path
+echo $path
+echo $PATH
+date
+date "+%j day of %Y"
+date "+Its %A, the %j day of %Y"
+man
+man id
+man id
+man id--nm
+man id--n
+whoami
+ls
+id -u
+ls
+ls Git-tutorial/
+ls -l
+pwd
+ls
+pwd
+cd ..
+cd ~
+ls
+cd
+cd
+cd
+pwd
+find . -name "hello.txt"
+df
+clear
+ls
+pwd
+cd ..
+ls /home
+cd
+cd 
+pwd
+mkdir final
+cd
+ls
+pwd
+ls -ld final
+touch display.sh
+ls
+cp display.sh report.sh
+ls
+rm display.sh
+ls
+ls -ltr /etc/
+clear
+exit
+ls
+cat hello.txt 
+cat hello.txt 
+cleaer
+clear
+ls
+more hello.txt
+more nepal_1.docx 
+clear
+more hello.txt 
+cat hello.txt
+clear
+cat hello.txt
+clear
+head -n 3 hello.txt 
+tail hello.txt 
+tail -n 3 hello.txt 
+1 hello.txt 
+wc hello.txt 
+cat hello.txt
+sort hello.txt 
+clear
+clear
+sort hello.txt 
+sort -r hello.txt 
+clear
+uniq hello.txt 
+cut hello.txt 
+cut -c 2-9 hello.txt 
+qqclear
+clear
+cut -d ' '-f2 hello.txt 
+cut -d ' ' -f2 hello.txt 
+clear
+ls -l
+history
+ls -a
+ls -r
+ls -t
+clear
+ls ~
+cd ~
+pwd
